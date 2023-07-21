@@ -1,0 +1,6 @@
+# .gitignore
+*.pt
+data/
+#这里的pt文件不上传
+BM_2Sphere/
+*.pt
